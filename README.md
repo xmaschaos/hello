@@ -1,3 +1,2 @@
 # hello
-Ready to raid
-有点痒.
+Ready to raid Kodo
